@@ -1,16 +1,5 @@
-# fitness
+Câu 1:
+Sau khi hoàn thành môn học này, em muốn nắm vững cách lập trình ứng dụng di động và có thể tự phát triển một ứng dụng cơ bản. Ngoài ra, em cũng mong muốn tiếp tục học hỏi thêm nhiều kiến thức quan trọng để phục vụ công việc sau này.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Câu 2:
+Em tin rằng lập trình di động sẽ tiếp tục phát triển mạnh trong 10 năm tới do sự gia tăng không ngừng của người dùng smartphone. Các ứng dụng di động ngày càng đóng vai trò quan trọng trong nhiều lĩnh vực như giáo dục, công việc và giải trí, nên nhu cầu tuyển dụng lập trình viên mobile sẽ luôn cao.
